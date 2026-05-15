@@ -1,0 +1,32 @@
+html{
+    background-color:antiquewhite
+}
+img{
+
+    width: 100% ;
+    border : 5px solid white ;
+    
+}
+* {
+    box-sizing: border-box;
+}
+main{
+width : 80% ;
+ background-color :darkgrey ;
+ margin-left :15% ;
+ margin-top :100px; ;
+ padding:60px ;
+ border : 10px solid black ;
+ text-align:center ;
+}
+
+
+h1{
+    color:darkorange
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    font-size : 15px ;
+    margin : 0px;
+}
