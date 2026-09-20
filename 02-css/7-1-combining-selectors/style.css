@@ -1,0 +1,44 @@
+/* Write your code here: */
+
+
+
+/* Element Selector */
+html{
+    background-color:antiquewhite ;
+}
+
+
+/* Multiple Elements */
+h1 ,h2 {
+    color: cornflowerblue;
+}
+
+ 
+/* Child Selector */
+.box > p{
+    color: firebrick;
+}
+
+
+/* Decendent Selector */
+.list li{
+    color: blue; 
+}
+
+
+/* Chaining Selectors */
+li.done{
+    color:seagreen 
+}
+
+
+/* Combining Selectors */
+ul > p.done{
+    font-size: 0.5rem;
+}
+
+
+
+
+
+
